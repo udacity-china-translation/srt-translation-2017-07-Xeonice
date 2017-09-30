@@ -239,7 +239,7 @@ and running in the terminal.
 51
 00:01:47,986 --> 00:01:49,859
 Then we'll take a quick
-tour of show commands
+tour of shell commands
 
 52
 00:01:49,859 --> 00:01:52,019
